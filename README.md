@@ -20,5 +20,3 @@ Many organisations are building LLM-powered agents and designing prompts for rea
 **[Try the Conversational AI Assistant](https://conversational-ai-assistant-ehqjm96mbt7j5zfaf8cmgd.streamlit.app/)**
 
 
-└── README.md
-```
